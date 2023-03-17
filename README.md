@@ -16,4 +16,4 @@ Olá, me chamo Davi e iniciei minha jornada com a proramação em 2022
  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
- ! [Animação de cobras] (https://github.com/Dav1Samu3l/Dav1Samu3l/blob/output/github-contribution-grid-snake.svg)
+ ! [Animação de cobras] (https://github.com/Dav1Samu3l/blob/output/github-contribution-grid-snake.svg)
