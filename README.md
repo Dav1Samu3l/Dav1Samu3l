@@ -14,13 +14,13 @@ Olá, me chamo Davi e iniciei minha jornada com a proramação em 2022
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dav1Samu3l&theme=blue-green" />
   </a>
 </div>
-
+<br/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,bash" />
   </a>
 </p>
-
+<br/>
 
 <p align="center">
   <a href="https://skillicons.dev">
