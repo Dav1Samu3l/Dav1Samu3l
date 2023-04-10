@@ -3,19 +3,25 @@ Olá, me chamo Davi e iniciei minha jornada com a proramação em 2022
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Dav1Samu3l&show_icons=true&theme=dracula&count_private=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dav1Samu3l&layout=compact)
+   Tecnologias que estou estudando e usando.
 
 
-### Tecnologias que estou estudando e usando.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dav1Samu3l&theme=blue-green)](https://github.com/Dav1Samu3l/github-readme-stats) 
-****
+
+
+
+<div style= 600px; ">
+  <a href="https://github.com/Dav1Samu3l/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dav1Samu3l&theme=blue-green" />
+  </a>
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,react,bash" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,bash" />
   </a>
 </p>
 
-****
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,linux,bootstrap,vscode,vercel,docker,github" />
@@ -24,12 +30,5 @@ Olá, me chamo Davi e iniciei minha jornada com a proramação em 2022
 
 
 
-## Tecnologias que eu uso no meu dia
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
- <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
- <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div><br/>
+                                                                                             
