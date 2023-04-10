@@ -6,6 +6,23 @@ Olá, me chamo Davi e iniciei minha jornada com a proramação em 2022
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dav1Samu3l&layout=compact)
 
 
+### Tecnologias que estou estudando e usando.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dav1Samu3l&theme=blue-green)](https://github.com/Dav1Samu3l/github-readme-stats) 
+****
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,react,bash" />
+  </a>
+</p>
+
+****
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linux,bootstrap,vscode,vercel,docker,github" />
+  </a>
+</p>
+
+
 
 ## Tecnologias que eu uso no meu dia
 
