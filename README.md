@@ -24,7 +24,7 @@ Olá, me chamo Davi e iniciei minha jornada com a proramação em 2022
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,bootstrap,vscode,vercel,github" />
+    <img src="https://skillicons.dev/icons?i=git,linux,bootstrap,vscode,netlify,github" />
   </a>
 </p>
 
