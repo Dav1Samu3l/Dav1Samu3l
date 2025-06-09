@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou o Davi Samuel 👋</h1>
+<h1 align="center">Olá, eu sou Davi Samuel 👋</h1>
 
 <p align="center">Desenvolvedor em formação, apaixonado por tecnologia e sempre aprendendo algo novo 🚀</p>
 
